@@ -1,5 +1,7 @@
 # Tailwind Themes for VS Code
 
+![Tailwind Color Palette](banner.jpg)
+
 A complete collection of VS Code themes using **ALL** Tailwind CSS color palettes. Choose from 44 beautiful themes, each featuring the official Tailwind CSS colors you know and love.
 
 ![Tailwind Themes for VS Code - All 44 Themes](tailwind-themes-banner-github.jpg)
