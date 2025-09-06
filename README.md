@@ -2,6 +2,171 @@
 
 A complete collection of VS Code themes using **ALL** Tailwind CSS color palettes. Choose from 44 beautiful themes, each featuring the official Tailwind CSS colors you know and love.
 
+![Tailwind Themes for VS Code - All 44 Themes](tailwind-themes-banner-github.jpg)
+
+> 🎨 **Color Reference**: See all Tailwind CSS colors at [tailwindcss.com/docs/colors](https://tailwindcss.com/docs/colors)
+
+## 🎨 Get the Color Palette
+
+Want to use these exact Tailwind colors in your own projects? We've got you covered!
+
+### 📁 Download the Complete Palette
+**[📥 tailwind_pallete.js](tailwind_pallete.js)** - Complete Tailwind CSS color palette with all hex values
+
+### 💡 What's Included
+- **22 color families** (slate, gray, zinc, red, blue, etc.)
+- **11 shades per color** (50, 100, 200, ..., 900, 950)
+- **242 total colors** ready to use
+- **Exact hex values** used in these VS Code themes
+
+*Each theme uses the full color scale for backgrounds, accents, and syntax highlighting.*
+
+## 📸 Theme Showcase
+
+### 🎨 All Themes by Color Family
+
+### Neutral Colors
+
+#### Slate
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Slate Light](images/light/tailwind_slate_light.png) | ![Slate Dark](images/dark/tailwind_slate_dark.png) |
+
+#### Gray
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Gray Light](images/light/tailwind_gray_light.png) | ![Gray Dark](images/dark/tailwind_gray_dark.png) |
+
+#### Zinc
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Zinc Light](images/light/tailwind_zinc_light.png) | ![Zinc Dark](images/dark/tailwind_zinc_dark.png) |
+
+#### Neutral
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Neutral Light](images/light/tailwind_neutral_light.png) | ![Neutral Dark](images/dark/tailwind_neutral_dark.png) |
+
+#### Stone
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Stone Light](images/light/tailwind_stone_light.png) | ![Stone Dark](images/dark/tailwind_stone_dark.png) |
+
+### Warm Colors
+
+#### Red
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Red Light](images/light/tailwind_red_light.png) | ![Red Dark](images/dark/tailwind_red_dark.png) |
+
+#### Orange
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Orange Light](images/light/tailwind_orange_light.png) | ![Orange Dark](images/dark/tailwind_orange_dark.png) |
+
+#### Amber
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Amber Light](images/light/tailwind_amber_light.png) | ![Amber Dark](images/dark/tailwind_amber_dark.png) |
+
+#### Yellow
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Yellow Light](images/light/tailwind_yellow_light.png) | ![Yellow Dark](images/dark/tailwind_yellow_dark.png) |
+
+### Cool Colors
+
+#### Sky
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Sky Light](images/light/tailwind_sky_light.png) | ![Sky Dark](images/dark/tailwind_sky_dark.png) |
+
+#### Blue
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Blue Light](images/light/tailwind_blue_light.png) | ![Blue Dark](images/dark/tailwind_blue_dark.png) |
+
+#### Indigo
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Indigo Light](images/light/tailwind_indigo_light.png) | ![Indigo Dark](images/dark/tailwind_indigo_dark.png) |
+
+#### Cyan
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Cyan Light](images/light/tailwind_cyan_light.png) | ![Cyan Dark](images/dark/tailwind_cyan_dark.png) |
+
+### Greens
+
+#### Lime
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Lime Light](images/light/tailwind_lime_light.png) | ![Lime Dark](images/dark/tailwind_lime_dark.png) |
+
+#### Green
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Green Light](images/light/tailwind_green_light.png) | ![Green Dark](images/dark/tailwind_green_dark.png) |
+
+#### Emerald
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Emerald Light](images/light/tailwind_emerald_light.png) | ![Emerald Dark](images/dark/tailwind_emerald_dark.png) |
+
+#### Teal
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Teal Light](images/light/tailwind_teal_light.png) | ![Teal Dark](images/dark/tailwind_teal_dark.png) |
+
+### Creative Colors
+
+#### Violet
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Violet Light](images/light/tailwind_violet_light.png) | ![Violet Dark](images/dark/tailwind_violet_dark.png) |
+
+#### Purple
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Purple Light](images/light/tailwind_purple_light.png) | ![Purple Dark](images/dark/tailwind_purple_dark.png) |
+
+#### Fuchsia
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Fuchsia Light](images/light/tailwind_fuchsia_light.png) | ![Fuchsia Dark](images/dark/tailwind_fuchsia_dark.png) |
+
+#### Pink
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Pink Light](images/light/tailwind_pink_light.png) | ![Pink Dark](images/dark/tailwind_pink_dark.png) |
+
+#### Rose
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Rose Light](images/light/tailwind_rose_light.png) | ![Rose Dark](images/dark/tailwind_rose_dark.png) |
+
 ## 🎨 Available Themes
 
 ### Light Themes

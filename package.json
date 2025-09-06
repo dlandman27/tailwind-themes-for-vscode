@@ -3,7 +3,7 @@
   "displayName": "Tailwind Themes",
   "description": "Complete collection of VS Code themes using all Tailwind CSS color palettes",
   "version": "1.0.0",
-  "publisher": "REPLACE-WITH-YOUR-PUBLISHER-NAME",
+  "publisher": "tailwind-themes-dev",
   "engines": {
     "vscode": "^1.74.0"
   },
