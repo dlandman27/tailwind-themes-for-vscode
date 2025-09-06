@@ -1,0 +1,253 @@
+{
+  "name": "tailwind-themes",
+  "displayName": "Tailwind Themes",
+  "description": "Complete collection of VS Code themes using all Tailwind CSS color palettes",
+  "version": "1.0.0",
+  "publisher": "REPLACE-WITH-YOUR-PUBLISHER-NAME",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "tailwind",
+    "tailwindcss",
+    "color",
+    "dark",
+    "light"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tailwind Slate Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-slate-light.json"
+      },
+      {
+        "label": "Tailwind Slate Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-slate-dark.json"
+      },
+      {
+        "label": "Tailwind Gray Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-gray-light.json"
+      },
+      {
+        "label": "Tailwind Gray Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-gray-dark.json"
+      },
+      {
+        "label": "Tailwind Zinc Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-zinc-light.json"
+      },
+      {
+        "label": "Tailwind Zinc Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-zinc-dark.json"
+      },
+      {
+        "label": "Tailwind Neutral Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-neutral-light.json"
+      },
+      {
+        "label": "Tailwind Neutral Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-neutral-dark.json"
+      },
+      {
+        "label": "Tailwind Stone Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-stone-light.json"
+      },
+      {
+        "label": "Tailwind Stone Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-stone-dark.json"
+      },
+      {
+        "label": "Tailwind Red Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-red-light.json"
+      },
+      {
+        "label": "Tailwind Red Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-red-dark.json"
+      },
+      {
+        "label": "Tailwind Orange Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-orange-light.json"
+      },
+      {
+        "label": "Tailwind Orange Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-orange-dark.json"
+      },
+      {
+        "label": "Tailwind Amber Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-amber-light.json"
+      },
+      {
+        "label": "Tailwind Amber Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-amber-dark.json"
+      },
+      {
+        "label": "Tailwind Yellow Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-yellow-light.json"
+      },
+      {
+        "label": "Tailwind Yellow Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-yellow-dark.json"
+      },
+      {
+        "label": "Tailwind Lime Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-lime-light.json"
+      },
+      {
+        "label": "Tailwind Lime Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-lime-dark.json"
+      },
+      {
+        "label": "Tailwind Green Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-green-light.json"
+      },
+      {
+        "label": "Tailwind Green Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-green-dark.json"
+      },
+      {
+        "label": "Tailwind Emerald Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-emerald-light.json"
+      },
+      {
+        "label": "Tailwind Emerald Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-emerald-dark.json"
+      },
+      {
+        "label": "Tailwind Teal Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-teal-light.json"
+      },
+      {
+        "label": "Tailwind Teal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-teal-dark.json"
+      },
+      {
+        "label": "Tailwind Cyan Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-cyan-light.json"
+      },
+      {
+        "label": "Tailwind Cyan Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-cyan-dark.json"
+      },
+      {
+        "label": "Tailwind Sky Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-sky-light.json"
+      },
+      {
+        "label": "Tailwind Sky Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-sky-dark.json"
+      },
+      {
+        "label": "Tailwind Blue Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-blue-light.json"
+      },
+      {
+        "label": "Tailwind Blue Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-blue-dark.json"
+      },
+      {
+        "label": "Tailwind Indigo Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-indigo-light.json"
+      },
+      {
+        "label": "Tailwind Indigo Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-indigo-dark.json"
+      },
+      {
+        "label": "Tailwind Violet Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-violet-light.json"
+      },
+      {
+        "label": "Tailwind Violet Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-violet-dark.json"
+      },
+      {
+        "label": "Tailwind Purple Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-purple-light.json"
+      },
+      {
+        "label": "Tailwind Purple Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-purple-dark.json"
+      },
+      {
+        "label": "Tailwind Fuchsia Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-fuchsia-light.json"
+      },
+      {
+        "label": "Tailwind Fuchsia Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-fuchsia-dark.json"
+      },
+      {
+        "label": "Tailwind Pink Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-pink-light.json"
+      },
+      {
+        "label": "Tailwind Pink Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-pink-dark.json"
+      },
+      {
+        "label": "Tailwind Rose Light",
+        "uiTheme": "vs",
+        "path": "./themes/tailwind-rose-light.json"
+      },
+      {
+        "label": "Tailwind Rose Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-rose-dark.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UPDATE-YOUR-USERNAME/tailwind-themes-for-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UPDATE-YOUR-USERNAME/tailwind-themes-for-vscode/issues"
+  },
+  "homepage": "https://github.com/UPDATE-YOUR-USERNAME/tailwind-themes-for-vscode#readme"
+}
