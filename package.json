@@ -2,7 +2,7 @@
   "name": "tailwind-themes",
   "displayName": "Tailwind Themes",
   "description": "Complete collection of VS Code themes using all Tailwind CSS color palettes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "tailwind-themes-dev",
   "engines": {
     "vscode": "^1.74.0"
@@ -244,10 +244,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/UPDATE-YOUR-USERNAME/tailwind-themes-for-vscode.git"
+    "url": "https://github.com/dlandman27/tailwind-themes-for-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/UPDATE-YOUR-USERNAME/tailwind-themes-for-vscode/issues"
+    "url": "https://github.com/dlandman27/tailwind-themes-for-vscode/issues"
   },
-  "homepage": "https://github.com/UPDATE-YOUR-USERNAME/tailwind-themes-for-vscode#readme"
+  "homepage": "https://github.com/dlandman27/tailwind-themes-for-vscode#readme"
 }

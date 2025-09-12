@@ -10,7 +10,7 @@ A complete collection of VS Code themes using **ALL** Tailwind CSS color palette
 
 **Show your support!** If these themes make your coding experience better, please consider:
 
-[![⭐ Star this repo](https://img.shields.io/badge/⭐-Star%20this%20repo-blue?style=for-the-badge)](https://github.com/your-username/tailwind-themes-for-vscode) [![☕ Buy me a coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dylandman287) [![💬 Share it](https://img.shields.io/badge/💬-Share%20it-green?style=for-the-badge)](https://twitter.com/intent/tweet?text=Check%20out%20these%20amazing%20Tailwind%20CSS%20themes%20for%20VS%20Code!&url=https://github.com/your-username/tailwind-themes-for-vscode)
+[![⭐ Star this repo](https://img.shields.io/badge/⭐-Star%20this%20repo-blue?style=for-the-badge)](https://github.com/dlandman27/tailwind-themes-for-vscode) [![☕ Buy me a coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dylandman287) [![💬 Share it](https://img.shields.io/badge/💬-Share%20it-green?style=for-the-badge)](https://twitter.com/intent/tweet?text=Check%20out%20these%20amazing%20Tailwind%20CSS%20themes%20for%20VS%20Code!&url=https://github.com/dlandman27/tailwind-themes-for-vscode)
 
 ## 📚 Table of Contents
 
@@ -41,7 +41,7 @@ Want to use these exact Tailwind colors in your own projects? We've got you cove
 ### Download from GitHub
 
 1. **Download the Extension**:
-   - Go to [Releases](https://github.com/your-username/tailwind-themes-for-vscode/releases)
+   - Go to [Releases](https://github.com/dlandman27/tailwind-themes-for-vscode/releases)
    - Download the release tagged `latest`
 
 2. **Install to VS Code**:
@@ -256,7 +256,7 @@ Each theme includes carefully mapped colors for:
 ## 🤝 Contributing
 
 Found an issue or have a suggestion? Feel free to:
-- Open an issue on our [GitHub repository](https://github.com/your-username/tailwind-themes-for-vscode)
+- Open an issue on our [GitHub repository](https://github.com/dlandman27/tailwind-themes-for-vscode)
 - Submit a pull request with improvements
 - Share screenshots of your favorite themes
 
@@ -275,6 +275,18 @@ Love these themes? Consider buying me a coffee! Your support helps keep this pro
 - 🐛 **Report bugs** or suggest improvements
 - 💬 **Share it** with fellow developers
 - 📝 **Write a review** after using the themes
+
+## 📝 Changelog
+
+### Version 1.0.1
+- ✅ **Fixed title bar theming** - Title bar and menu bar now properly update with theme colors
+- 🌚 **Darker backgrounds** - Dark themes now use Tailwind's darkest 950 shades for richer, deeper backgrounds
+- 🎨 **Enhanced window chrome** - Better integration with VS Code's window elements
+
+### Version 1.0.0
+- 🎉 Initial release with 44 themes covering all Tailwind CSS color palettes
+- 🌞 Light and dark variants for each color
+- 🎨 Complete UI theming for VS Code interface
 
 ## 🙏 Credits
 
