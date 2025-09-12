@@ -2,7 +2,7 @@
   "name": "Tailwind Zinc Dark",
   "type": "dark",
   "colors": {
-    "editor.background": "#18181b",
+    "editor.background": "#09090b",
     "editor.foreground": "#f4f4f5",
     "editorCursor.foreground": "#a1a1aa",
     "editor.lineHighlightBackground": "#27272a",
@@ -34,7 +34,7 @@
     "statusBar.debuggingBackground": "#b91c1c",
     "statusBar.debuggingForeground": "#fee2e2",
     "statusBar.noFolderBackground": "#52525b",
-    "tab.activeBackground": "#18181b",
+    "tab.activeBackground": "#09090b",
     "tab.activeForeground": "#f4f4f5",
     "tab.inactiveBackground": "#27272a",
     "tab.inactiveForeground": "#a1a1aa",
@@ -44,7 +44,7 @@
     "panel.border": "#3f3f46",
     "panelTitle.activeForeground": "#f4f4f5",
     "panelTitle.inactiveForeground": "#a1a1aa",
-    "terminal.background": "#18181b",
+    "terminal.background": "#09090b",
     "terminal.foreground": "#f4f4f5",
     "terminal.ansiBlack": "#27272a",
     "terminal.ansiRed": "#f87171",
@@ -77,7 +77,14 @@
     "badge.foreground": "#18181b",
     "progressBar.background": "#71717a",
     "window.activeBorder": "#52525b",
-    "window.inactiveBorder": "#3f3f46"
+    "window.inactiveBorder": "#3f3f46",
+    "titleBar.activeBackground": "#3f3f46",
+    "titleBar.activeForeground": "#f4f4f5",
+    "titleBar.inactiveBackground": "#27272a",
+    "titleBar.inactiveForeground": "#a1a1aa",
+    "menuBar.selectionBackground": "#52525b",
+    "menuBar.selectionForeground": "#f4f4f5",
+    "editorGroupHeader.tabsBackground": "#27272a"
   },
   "tokenColors": [
     {

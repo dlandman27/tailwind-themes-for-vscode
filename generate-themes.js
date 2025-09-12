@@ -401,7 +401,20 @@ function createLightTheme(colorName, colorPalette) {
 
       // Window border
       "window.activeBorder": colorPalette[300],
-      "window.inactiveBorder": colorPalette[200]
+      "window.inactiveBorder": colorPalette[200],
+
+      // Title Bar
+      "titleBar.activeBackground": colorPalette[600],
+      "titleBar.activeForeground": colorPalette[50],
+      "titleBar.inactiveBackground": colorPalette[500],
+      "titleBar.inactiveForeground": colorPalette[200],
+
+      // Menu Bar
+      "menuBar.selectionBackground": colorPalette[500],
+      "menuBar.selectionForeground": colorPalette[50],
+
+      // Editor Group Header
+      "editorGroupHeader.tabsBackground": colorPalette[100]
     },
     tokenColors: [
       {
@@ -486,7 +499,7 @@ function createDarkTheme(colorName, colorPalette) {
     type: "dark",
     colors: {
       // Editor colors
-      "editor.background": colorPalette[900],
+      "editor.background": colorPalette[950] || colorPalette[900],
       "editor.foreground": colorPalette[100],
       "editorCursor.foreground": colorPalette[400],
       "editor.lineHighlightBackground": colorPalette[800],
@@ -526,7 +539,7 @@ function createDarkTheme(colorName, colorPalette) {
       "statusBar.noFolderBackground": colorPalette[600],
 
       // Tab colors
-      "tab.activeBackground": colorPalette[900],
+      "tab.activeBackground": colorPalette[950] || colorPalette[900],
       "tab.activeForeground": colorPalette[100],
       "tab.inactiveBackground": colorPalette[800],
       "tab.inactiveForeground": colorPalette[400],
@@ -540,7 +553,7 @@ function createDarkTheme(colorName, colorPalette) {
       "panelTitle.inactiveForeground": colorPalette[400],
 
       // Terminal colors
-      "terminal.background": colorPalette[900],
+      "terminal.background": colorPalette[950] || colorPalette[900],
       "terminal.foreground": colorPalette[100],
       "terminal.ansiBlack": colorPalette[800],
       "terminal.ansiRed": colors.red[400],
@@ -589,7 +602,20 @@ function createDarkTheme(colorName, colorPalette) {
 
       // Window border
       "window.activeBorder": colorPalette[600],
-      "window.inactiveBorder": colorPalette[700]
+      "window.inactiveBorder": colorPalette[700],
+
+      // Title Bar
+      "titleBar.activeBackground": colorPalette[700],
+      "titleBar.activeForeground": colorPalette[100],
+      "titleBar.inactiveBackground": colorPalette[800],
+      "titleBar.inactiveForeground": colorPalette[400],
+
+      // Menu Bar
+      "menuBar.selectionBackground": colorPalette[600],
+      "menuBar.selectionForeground": colorPalette[100],
+
+      // Editor Group Header
+      "editorGroupHeader.tabsBackground": colorPalette[800]
     },
     tokenColors: [
       {

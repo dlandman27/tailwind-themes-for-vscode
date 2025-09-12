@@ -2,7 +2,7 @@
   "name": "Tailwind Pink Dark",
   "type": "dark",
   "colors": {
-    "editor.background": "#831843",
+    "editor.background": "#500724",
     "editor.foreground": "#fce7f3",
     "editorCursor.foreground": "#f472b6",
     "editor.lineHighlightBackground": "#9d174d",
@@ -34,7 +34,7 @@
     "statusBar.debuggingBackground": "#b91c1c",
     "statusBar.debuggingForeground": "#fee2e2",
     "statusBar.noFolderBackground": "#db2777",
-    "tab.activeBackground": "#831843",
+    "tab.activeBackground": "#500724",
     "tab.activeForeground": "#fce7f3",
     "tab.inactiveBackground": "#9d174d",
     "tab.inactiveForeground": "#f472b6",
@@ -44,7 +44,7 @@
     "panel.border": "#be185d",
     "panelTitle.activeForeground": "#fce7f3",
     "panelTitle.inactiveForeground": "#f472b6",
-    "terminal.background": "#831843",
+    "terminal.background": "#500724",
     "terminal.foreground": "#fce7f3",
     "terminal.ansiBlack": "#9d174d",
     "terminal.ansiRed": "#f87171",
@@ -77,7 +77,14 @@
     "badge.foreground": "#831843",
     "progressBar.background": "#ec4899",
     "window.activeBorder": "#db2777",
-    "window.inactiveBorder": "#be185d"
+    "window.inactiveBorder": "#be185d",
+    "titleBar.activeBackground": "#be185d",
+    "titleBar.activeForeground": "#fce7f3",
+    "titleBar.inactiveBackground": "#9d174d",
+    "titleBar.inactiveForeground": "#f472b6",
+    "menuBar.selectionBackground": "#db2777",
+    "menuBar.selectionForeground": "#fce7f3",
+    "editorGroupHeader.tabsBackground": "#9d174d"
   },
   "tokenColors": [
     {

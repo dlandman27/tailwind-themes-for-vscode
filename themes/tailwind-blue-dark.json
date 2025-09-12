@@ -2,7 +2,7 @@
   "name": "Tailwind Blue Dark",
   "type": "dark",
   "colors": {
-    "editor.background": "#1e3a8a",
+    "editor.background": "#172554",
     "editor.foreground": "#dbeafe",
     "editorCursor.foreground": "#60a5fa",
     "editor.lineHighlightBackground": "#1e40af",
@@ -34,7 +34,7 @@
     "statusBar.debuggingBackground": "#b91c1c",
     "statusBar.debuggingForeground": "#fee2e2",
     "statusBar.noFolderBackground": "#2563eb",
-    "tab.activeBackground": "#1e3a8a",
+    "tab.activeBackground": "#172554",
     "tab.activeForeground": "#dbeafe",
     "tab.inactiveBackground": "#1e40af",
     "tab.inactiveForeground": "#60a5fa",
@@ -44,7 +44,7 @@
     "panel.border": "#1d4ed8",
     "panelTitle.activeForeground": "#dbeafe",
     "panelTitle.inactiveForeground": "#60a5fa",
-    "terminal.background": "#1e3a8a",
+    "terminal.background": "#172554",
     "terminal.foreground": "#dbeafe",
     "terminal.ansiBlack": "#1e40af",
     "terminal.ansiRed": "#f87171",
@@ -77,7 +77,14 @@
     "badge.foreground": "#1e3a8a",
     "progressBar.background": "#3b82f6",
     "window.activeBorder": "#2563eb",
-    "window.inactiveBorder": "#1d4ed8"
+    "window.inactiveBorder": "#1d4ed8",
+    "titleBar.activeBackground": "#1d4ed8",
+    "titleBar.activeForeground": "#dbeafe",
+    "titleBar.inactiveBackground": "#1e40af",
+    "titleBar.inactiveForeground": "#60a5fa",
+    "menuBar.selectionBackground": "#2563eb",
+    "menuBar.selectionForeground": "#dbeafe",
+    "editorGroupHeader.tabsBackground": "#1e40af"
   },
   "tokenColors": [
     {

@@ -77,7 +77,14 @@
     "badge.foreground": "#f5f3ff",
     "progressBar.background": "#8b5cf6",
     "window.activeBorder": "#c4b5fd",
-    "window.inactiveBorder": "#ddd6fe"
+    "window.inactiveBorder": "#ddd6fe",
+    "titleBar.activeBackground": "#7c3aed",
+    "titleBar.activeForeground": "#f5f3ff",
+    "titleBar.inactiveBackground": "#8b5cf6",
+    "titleBar.inactiveForeground": "#ddd6fe",
+    "menuBar.selectionBackground": "#8b5cf6",
+    "menuBar.selectionForeground": "#f5f3ff",
+    "editorGroupHeader.tabsBackground": "#ede9fe"
   },
   "tokenColors": [
     {
