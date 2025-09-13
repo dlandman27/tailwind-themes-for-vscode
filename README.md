@@ -278,6 +278,9 @@ Love these themes? Consider buying me a coffee! Your support helps keep this pro
 
 ## 📝 Changelog
 
+### Version 1.0.2
+- Reverted colors back to [900] from 950
+
 ### Version 1.0.1
 - ✅ **Fixed title bar theming** - Title bar and menu bar now properly update with theme colors
 - 🌚 **Darker backgrounds** - Dark themes now use Tailwind's darkest 950 shades for richer, deeper backgrounds

@@ -499,7 +499,7 @@ function createDarkTheme(colorName, colorPalette) {
     type: "dark",
     colors: {
       // Editor colors
-      "editor.background": colorPalette[950] || colorPalette[900],
+      "editor.background": colorPalette[900] || colorPalette[900],
       "editor.foreground": colorPalette[100],
       "editorCursor.foreground": colorPalette[400],
       "editor.lineHighlightBackground": colorPalette[800],
@@ -539,7 +539,7 @@ function createDarkTheme(colorName, colorPalette) {
       "statusBar.noFolderBackground": colorPalette[600],
 
       // Tab colors
-      "tab.activeBackground": colorPalette[950] || colorPalette[900],
+      "tab.activeBackground": colorPalette[900] || colorPalette[900],
       "tab.activeForeground": colorPalette[100],
       "tab.inactiveBackground": colorPalette[800],
       "tab.inactiveForeground": colorPalette[400],
@@ -553,7 +553,7 @@ function createDarkTheme(colorName, colorPalette) {
       "panelTitle.inactiveForeground": colorPalette[400],
 
       // Terminal colors
-      "terminal.background": colorPalette[950] || colorPalette[900],
+      "terminal.background": colorPalette[900] || colorPalette[900],
       "terminal.foreground": colorPalette[100],
       "terminal.ansiBlack": colorPalette[800],
       "terminal.ansiRed": colors.red[400],
